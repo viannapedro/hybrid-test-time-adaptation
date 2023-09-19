@@ -15,7 +15,8 @@ In deep learning, Batch Normalization is a commonly used technique to stabilize 
 To run the code, one needs the following datasets:  
 - CIFAR-10 and CIFAR-10-Corruptions  
 - ImageNet-1K and ImageNet-1K-Corruptions  
-- Byra et al. publicly available dataset: 10.5281/zenodo.1009145  
+- Byra et al. publicly available dataset: 10.5281/zenodo.1009145
+  
 Note that the trained weights and source data for the Ultrasound cannot be distributed.  
 Requirements.txt created automatically with pipreqs package.
 
