@@ -1,6 +1,6 @@
 # Hybrid Test-time Batch Normalization
 
-_Classification under domain shift_   
+_Classification under domain shift._  
 _(Collaboration between: LBUM/CRCHUM - Université de Montréal and Mila - Quebec AI Institute)_  
 
 This code is part of a WACV 2024 submission.  
