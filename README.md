@@ -5,9 +5,9 @@ _(Collaboration between: LBUM/CRCHUM - Université de Montréal and Mila - Quebe
 
 This code is part of a **NeurIPS 2023** _Workshop DistShift_ submission.  
 
-**Note  - This is the basis for the paper:**
-P. Vianna et al., "Unsupervised Test-Time Adaptation for Hepatic Steatosis Grading Using Ultrasound B-Mode Images," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, vol. 72, no. 5, pp. 601-611, May 2025, doi: 10.1109/TUFFC.2025.3555180.
-The code will be organized and updated soon (last update July 7, 2025).
+**Note  - This is the basis for the paper:**  
+P. Vianna et al., "Unsupervised Test-Time Adaptation for Hepatic Steatosis Grading Using Ultrasound B-Mode Images," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, vol. 72, no. 5, pp. 601-611, May 2025, doi: 10.1109/TUFFC.2025.3555180.  
+The code will be organized and updated soon (last update July 7, 2025).  
 
 
 ## Introduction
